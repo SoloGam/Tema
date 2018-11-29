@@ -1,0 +1,120 @@
+/* body {
+    background-image: url(Img/rasarit.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+} */ 
+.Meniu{
+  border-color: black;
+  border-width: medium;
+  border-style: solid;
+  line-height: 1em;
+  padding: 5px;
+  padding-left: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  position: static;
+  background-color: #a7cece;
+  border-radius: 10px;
+  text-align: center;
+}
+#Men{
+  color: #d1ae90;
+}
+/* #men{
+  color: green;
+  margin-right: 500px;
+  line-height: 1em;
+}
+#tst{
+  color: red;
+  margin-left: 500px;
+  margin-top: 10px;
+  float: right;
+} */
+.Categ{
+  text-align: left;
+  color: #6d490f;
+}
+
+.Descriere{
+  text-align: center;
+  line-height: 1.2em;
+}
+.Content{
+
+  border-color: black;
+  border-width: medium;
+  border-style: solid;
+  line-height: 1em;
+  background-color: #a7cece;
+  margin-left: 180px;
+  margin-right: 250px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  /* margin-top: 15px; */
+  border-radius: 10px;
+  padding: 5px;
+  text-align: center;
+}
+#C1, #C2, #C3, #C4, #C5, #C6, #C7{
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+}
+.Catg{
+  float: left;
+  border-color: black;
+  border-width: medium;
+  border-style: solid;
+  line-height: 1em;
+  background-color: #a7cece;
+  margin-left: 0px;
+  min-width: 0px;
+  max-width: 160px;
+  /* margin-top: 15px; */
+  border-radius: 10px;
+  padding: 5px;
+
+}
+.Sumar{
+  float: right;
+  border-color: black;
+  border-width: medium;
+  border-style: solid;
+  line-height: 1.3em;
+  background-color: #a7cece;
+  margin-right: 0px;
+  min-width: 0px;
+  max-width: 230px;
+  /* margin-top: 15px; */
+  border-radius: 10px;
+  padding: 5px;
+  border-spacing: 15px;
+}
+.bottom{
+  border-color: black;
+  border-width: medium;
+  border-style: solid;
+  line-height: 1em;
+  padding: 15px;
+  padding-left: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  position: static;
+  background-color: #a7cece;
+  border-radius: 10px;
+  clear: both;
+  border-spacing: 10px;
+}
+img{
+  border:0;
+}
+a:link{
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
